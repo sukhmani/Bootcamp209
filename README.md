@@ -2,3 +2,7 @@
 
 This is my first edit
 This is my second version of my repository.
+
+-One
+-Two
+-Three
